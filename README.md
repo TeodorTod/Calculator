@@ -6,8 +6,8 @@
 
 <p align="center">
     <div>
-    <img src="./initial.png"/>
+    <img src="./pictures/initial.png"/>
     <hr/>
-    <img src="./some-operations.png"/>
+    <img src="./pictures/some-operations.png"/>
     <hr/>
 <p>
