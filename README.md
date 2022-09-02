@@ -14,7 +14,7 @@
 
 <hr/>
 <h2>Setup:</h2>
-- <i><b>Download or clone the repository</b></i>
+- <i><b>Download or clone the repository</b></i><br>
 - <i><b>To start: run npm start</b></i>
 <hr/>
 
