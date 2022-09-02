@@ -11,3 +11,18 @@
     <img src="./pictures/some-operations.jpg"/>
     <hr/>
 <p>
+
+<hr/>
+<h2>Setup:</h2>
+- <i><b>Download or clone the repository</b></i>
+- <i><b>To start: run npm start</b></i>
+<hr/>
+
+
+Used technologies:
+
+- <i><b>JavaScript with React library</b></i>
+- <i><b>HTML</b></i>
+- <i><b>CSS</b></i>
+
+<hr/>
